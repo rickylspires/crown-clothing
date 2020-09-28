@@ -2,6 +2,7 @@ import React from 'react';
 import MenuItem from '../../components/menu-item/menu-item.component';
 import './directory.styles.scss';
 
+// because we need to store data we use class
 class Directory extends React.Component {
   constructor() {
     super();
